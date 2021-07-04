@@ -5,4 +5,4 @@
 
 Ссылка на видеоуроки и разборы дз: https://youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5
 
-Все решения представлены на языке Golang
+Все решения представлены на языке Golang(Несколько задач на Node js)

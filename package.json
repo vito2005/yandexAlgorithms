@@ -1,0 +1,11 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "алгоритмы ЯКонтест(Яндекс Контест) на Golang",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "2.3.0"
+  },
+  "author": "abuki",
+  "license": "ISC"
+}
