@@ -1,4 +1,4 @@
-# Homework solutions of Yandex algorithms course(Golang)
+# Homework solutions 📖 of Yandex algorithms course(Golang)
 
 ## [Russian lang description](https://github.com/vito2005/yandexAlgorithms/blob/main/README.RU.md)
 
