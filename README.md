@@ -4,7 +4,7 @@
 
 Link to course: [Yandex Training Algorithms](https://yandex.ru/yaintern/algorithm-training)
 
-Link to [video lessons and hw parsing](https://youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)
+Link to [video lessons 📺 and hw parsing](https://youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)
 
 All solutions support [Golang](https://golang.org/) + (Some hws support Node js)
 
