@@ -1,6 +1,6 @@
 # Homework solutions 📖 of Yandex algorithms course(Golang)
 
-## [Russian lang description](https://github.com/vito2005/yandexAlgorithms/blob/main/README.RU.md)
+## [Russian lang description](https://github.com/vito2005/yandexAlgorithms/blob/main/README.RU.md) 🇷🇺
 
 Link to course: [Yandex Training Algorithms](https://yandex.ru/yaintern/algorithm-training)
 
