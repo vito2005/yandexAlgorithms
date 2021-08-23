@@ -10,4 +10,5 @@ All solutions support [Golang](https://golang.org/) + (Some hws support Node js)
 
 ## Themes Homeworks Contest
 
-- Complexity, testing 🧪, special cases - [HW №1](https://github.com/vito2005/yandexAlgorithms/tree/main/1) - [Contest](https://contest.yandex.ru/contest/27393/problems/)
+- ### Complexity, testing 🧪, special cases - [HW №1](https://github.com/vito2005/yandexAlgorithms/tree/main/1) - [Contest](https://contest.yandex.ru/contest/27393/problems/)
+- ### Linear search :mag: - [HW №2](https://github.com/vito2005/yandexAlgorithms/tree/main/2) - [Contest](https://contest.yandex.ru/contest/27472/problems/)

@@ -8,4 +8,5 @@
 
 ## Темы Домашки Контест
 
-- Сложность, тестирование 🧪, особые случаи - [Добмашнее задание №1](https://github.com/vito2005/yandexAlgorithms/tree/main/1) - [Контест](https://contest.yandex.ru/contest/27393/problems/)
+- ### Сложность, тестирование 🧪, особые случаи - [Домашнее задание №1](https://github.com/vito2005/yandexAlgorithms/tree/main/1) - [Контест](https://contest.yandex.ru/contest/27393/problems/)
+- ### Линейный поиск :mag: - [Домашнее задание №2](https://github.com/vito2005/yandexAlgorithms/tree/main/2) - [Контест](https://contest.yandex.ru/contest/27472/problems/)
