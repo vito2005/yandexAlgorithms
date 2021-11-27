@@ -7,10 +7,6 @@ import (
 	"strings"
 )
 
-type Costumer struct {
-	purchases map[string]int
-}
-
 func main() {
 	accounts := make(map[string]int)
 	file, _ := ioutil.ReadFile("4. Maps and Counting Sort/g/input.txt")
